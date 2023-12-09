@@ -48,6 +48,8 @@ github：https://github.com/Forrest418/DataMap-For-Excel
 
 百度：https://lbsyun.baidu.com/，注册账户帮助文档 https://lbs.amap.com/faq/account/registered/37193
 
+腾讯：https://lbs.qq.com/map，注册账户F&Q文档 https://lbs.qq.com/faq/accountQuota/faqKey
+
 谷歌：
 
 ---------
@@ -61,3 +63,5 @@ github：https://github.com/Forrest418/DataMap-For-Excel
 高德地图额度控制参考，https://lbs.amap.com/news/js_api
 
 百度地图额度控制参考，https://lbsyun.baidu.com/solutions/privilege
+
+腾讯地图额度控制参考，https://lbs.qq.com/service/webService/webServiceGuide/webServiceQuota
